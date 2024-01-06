@@ -48,7 +48,7 @@ Following things can be computed by using  proteinAnalysis2
    26. Molar extinction coefficient (cysteine|cysteine)'
 
 ## Download the package
-The package can be download by right click and then 'Save link as..'
+The package can be download by right click and then 'Save link as...'
 
 ## Usage example
 ```python
