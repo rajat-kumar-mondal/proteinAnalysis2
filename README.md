@@ -53,7 +53,7 @@ The package can be download by right click and then 'Save link as...'
 ## Usage example
 ```python
 # import the package
-import proteinAnalysis2 as pan2
+from proteinAnalysis2 import proteinAnalysis2 as pan2
 
 # take a protein sequence
 seq = "ZAQALLPIASYAGLTVSAPVFAALVTVYGAYALYRYNIRRRENSYQRIRSDHDSHSCANNRGWCRPTCFSHEYTDWFNNDVCGSYRCCRPGRR"
