@@ -8,7 +8,7 @@ This package is written in pure Python to compute the basic composition of a pro
 
 Understanding the compositional details and physicochemical properties of a protein is crucial for any protein-related study. These properties help determine the type (hydrophobic or hydrophilic), activity, and behavior of a protein. `proteinAnalysis2` provides an easy way to compute various compositional and physicochemical properties of a protein sequence.
 
-### **Development & Publication**  
+## **Development & Publication**  
 The development of this package was part of the **Anti-Dengue Peptide Database (ADPDB)** project, which has been published in the **International Journal of Peptide Research and Therapeutics** by **Springer Netherlands**. Click on the DOI in the citation section below to see the article.
 
 ## Requirements  
@@ -80,6 +80,6 @@ print(obj.all_comp_physP())
 print(obj.header_info())
 ```
 
-### **Citation**  
+## **Citation**  
 **Mondal, R.K., Anand, A.A. & Samanta, S.K., 2024.** ADPDB: A Comprehensive Knowledgebase of Manually Curated Peptides Against Dengue Virus. *Int J Pept Res Ther 30, 36 (2024).*  
 **DOI:** [https://doi.org/10.1007/s10989-024-10610-0](https://doi.org/10.1007/s10989-024-10610-0)
